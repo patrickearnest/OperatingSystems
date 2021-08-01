@@ -1,0 +1,1 @@
+When using macOS, the operating system can carry out services and functions of applications.  The macOS monitors what is needed to run specific applications on the machine.  The OS tells the computer what to do essentially. 
