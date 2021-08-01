@@ -1,1 +1,2 @@
 When using macOS, the operating system can carry out services and functions of applications.  The macOS monitors what is needed to run specific applications on the machine.  The OS tells the computer what to do essentially. 
+The macOS operating system acts as a communicator.  It interacts with the computer hardware giving the computer commands that will hopefully produce results.  The OS uses language that the computer can understand and interpret, producing specific functions. 
